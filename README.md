@@ -85,7 +85,7 @@ Contributions are welcome!
 
 
 
-📧 Contact: [your-email@example.com]
+📧 Contact: gamingprostudio1@gmail.com
 ⭐ Star this repo if you find it useful!
 
 📜 License
